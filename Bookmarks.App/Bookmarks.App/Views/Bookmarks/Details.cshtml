@@ -1,0 +1,70 @@
+﻿@model Bookmarks.App.ViewModels.BookmarkDetailsViewModel
+
+@{
+    ViewBag.Title = "Bookmark Details";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <p>
+        @Html.DisplayNameFor(x => x.Url): @Html.DisplayFor(x => x.Url);
+    </p>
+    <p>
+        @Html.DisplayNameFor(x => x.CategoryName): @Html.DisplayFor(x => x.CategoryName);
+    </p>
+    <p>
+        @Html.DisplayNameFor(x => x.Description): @Html.DisplayFor(x => x.Description);
+    </p>
+
+    <p>
+        @Html.DisplayNameFor(x => x.Votes): <span id="voteNumber">@Html.DisplayFor(x => x.Votes)</span>;
+        @using (Ajax.BeginForm("Vote", "Bookmarks", new { bookmarkId = Model.Id }, new AjaxOptions()
+        {
+            HttpMethod = "POST",
+            InsertionMode = InsertionMode.Replace,
+            UpdateTargetId = "voteNumber",
+            OnSuccess = "onAddCommentSuccess"
+        }))
+        {
+            @Html.AntiForgeryToken()
+            <input type="submit" name="submit" value="+" />
+        }
+    </p>
+</div>
+<div class="row" id="comments">
+    <h3>Comments</h3>
+    @if (Model.Comments.Any())
+    {
+        @Html.DisplayFor(x => x.Comments)
+    }
+    else
+    {
+        <span>No Commments</span>
+    }
+</div>
+
+<div class="row">
+    <h3>Add Comment</h3>
+    @using (Ajax.BeginForm("AddComment", "Bookmarks", new {BookmarkId = Model.Id}, new AjaxOptions()
+    {
+        HttpMethod = "POST",
+        InsertionMode = InsertionMode.InsertAfter,
+        UpdateTargetId = "comments",
+        OnSuccess = "onAddCommentSuccess"
+    }))
+    {
+        @Html.AntiForgeryToken()
+        <input type="text" name="Text" value="" id="Text"/>
+        <input type="submit" name="submit" value="Add comment"/>
+    }
+</div>
+
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onAddCommentSuccess() {
+            document.getElementById("Text").value = "";
+        }
+    </script>
+}

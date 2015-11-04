@@ -1,0 +1,7 @@
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\obj\Debug\Bookmarks.App.Common.csprojResolveAssemblyReference.cache
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\bin\Debug\Bookmarks.App.Common.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\bin\Debug\Bookmarks.App.Common.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\bin\Debug\AutoMapper.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\bin\Debug\AutoMapper.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\obj\Debug\Bookmarks.App.Common.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Common\obj\Debug\Bookmarks.App.Common.pdb

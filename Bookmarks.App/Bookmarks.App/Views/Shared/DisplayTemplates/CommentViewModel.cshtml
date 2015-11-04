@@ -1,0 +1,20 @@
+﻿@using Microsoft.AspNet.Identity
+@model Bookmarks.App.ViewModels.CommentViewModel
+<div id="comment-@Model.Id" class="body-content">
+    <p>@Model.Text</p>
+    <p>User: @Model.User</p>
+    @if (Model.User == this.User.Identity.GetUserName())
+    {
+        using (Ajax.BeginForm("DeleteComment", "Bookmarks", new { commentId = Model.Id }, new AjaxOptions()
+        {
+            HttpMethod = "POST",
+            InsertionMode = InsertionMode.ReplaceWith,
+            UpdateTargetId = "comment-" + Model.Id
+        }))
+        {
+            @Html.AntiForgeryToken()
+            <input type="submit" value="Delete" class="btn btn-primary" />
+        }
+    }
+</div>
+

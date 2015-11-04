@@ -1,0 +1,16 @@
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Bookmarks.App.Data.dll.config
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Bookmarks.App.Data.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Bookmarks.App.Data.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Bookmarks.App.Model.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Bookmarks.App.Model.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\obj\Debug\Bookmarks.App.Data.csprojResolveAssemblyReference.cache
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\obj\Debug\Bookmarks.App.Data.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Data\obj\Debug\Bookmarks.App.Data.pdb

@@ -1,0 +1,16 @@
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Bookmarks.App.Model.dll.config
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Bookmarks.App.Model.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Bookmarks.App.Model.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\obj\Debug\Bookmarks.App.Model.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\obj\Debug\Bookmarks.App.Model.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\AutoMapper.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\bin\Debug\AutoMapper.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\Bookmarks\Bookmarks.App\Bookmarks.App.Model\obj\Debug\Bookmarks.App.Model.csprojResolveAssemblyReference.cache
