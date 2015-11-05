@@ -1,0 +1,16 @@
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\SportSystem.App.Data.dll.config
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\SportSystem.App.Data.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\SportSystem.App.Data.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\SportSystem.App.Model.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\SportSystem.App.Model.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\obj\Debug\SportSystem.App.Data.csprojResolveAssemblyReference.cache
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\obj\Debug\SportSystem.App.Data.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Data\obj\Debug\SportSystem.App.Data.pdb

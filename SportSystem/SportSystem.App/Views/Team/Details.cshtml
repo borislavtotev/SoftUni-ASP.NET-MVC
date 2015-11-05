@@ -1,0 +1,48 @@
+﻿@model SportSystem.App.ViewModels.TeamDetailsViewModel
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<div class="col-xs-6">
+    <h1>@ViewBag.Title</h1>
+    <p>Nickname: @Model.NickName</p>
+    <p>Founded: @Model.DateFounded.ToString("dd-MMM-yyyy hh:mm:ss")</p>
+    <div>
+        <h2>Players:</h2>
+        @Html.DisplayFor(x => x.Players)
+    </div>
+</div>
+<div class="col-xs-6">
+    <h2>Votes:<span id="voteNumber">@Model.Votes</span></h2>
+    @if (!ViewBag.HasVoted)
+    {
+        <div id="voteButton">
+            @using (Ajax.BeginForm("Vote", "Team", new {teamId = Model.Id}, new AjaxOptions()
+            {
+                HttpMethod = "POST",
+                InsertionMode = InsertionMode.Replace,
+                UpdateTargetId = "voteNumber",
+                OnSuccess = "onVoteSuccess"
+            }))
+            {
+                @Html.AntiForgeryToken()
+                <input type="submit" name="submit" value="+"/>
+            }
+        </div>
+    }
+    else
+    {
+        <div id="voted">You have voted!</div>
+    }
+</div>
+
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onVoteSuccess() {
+            document.getElementById("voteButton").innerHTML = "<div id=\"voted\">You have voted!</div>";
+        }
+    </script>
+}
+

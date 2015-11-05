@@ -1,0 +1,7 @@
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\bin\Debug\SportSystem.App.Common.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\bin\Debug\SportSystem.App.Common.pdb
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\bin\Debug\AutoMapper.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\bin\Debug\AutoMapper.xml
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\obj\Debug\SportSystem.App.Common.csprojResolveAssemblyReference.cache
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\obj\Debug\SportSystem.App.Common.dll
+C:\Users\boris\Dropbox\ASP.NET MVC\Exams\SportSystem\SportSystem\SportSystem.App.Common\obj\Debug\SportSystem.App.Common.pdb

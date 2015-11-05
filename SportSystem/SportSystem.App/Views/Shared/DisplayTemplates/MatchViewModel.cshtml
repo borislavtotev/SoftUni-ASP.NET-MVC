@@ -1,0 +1,16 @@
+﻿@model SportSystem.App.ViewModels.MatchViewModel
+<div class="panel panel-default" id="@Model.Id">
+    <div class="panel-body">
+        @if (this.User.Identity.IsAuthenticated)
+        {
+            <h2>@Html.ActionLink(Model.HomeTeam + " vs " + Model.AwayTeam, "Details", "Match", new {id = Model.Id}, new {})</h2>
+        }
+        else
+        {
+            <h2>@Model.HomeTeam vs @Model.AwayTeam</h2>
+        }
+        <p>
+            @Model.MatchDateTime.ToString("dd-MMM-yyyy hh:mm:ss")
+        </p>
+    </div>
+</div>

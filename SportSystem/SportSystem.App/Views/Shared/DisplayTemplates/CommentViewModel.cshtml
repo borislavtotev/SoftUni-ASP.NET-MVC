@@ -1,0 +1,7 @@
+﻿@model SportSystem.App.ViewModels.CommentViewModel
+<div class="panel panel-default" id="@Model.Id">
+    <div class="panel-body">
+        <p><span style="font-weight: bold">@Model.OwnerUserName:</span>@Model.Content</p>
+        <p>Created on: @Model.CreationDateTime.ToString("dd-MMM-yyyy hh:mm:ss")</p>
+    </div>
+</div>

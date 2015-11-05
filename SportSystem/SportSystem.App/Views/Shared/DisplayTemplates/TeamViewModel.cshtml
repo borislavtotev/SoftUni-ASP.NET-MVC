@@ -1,0 +1,15 @@
+﻿@model SportSystem.App.ViewModels.TeamViewModel
+<div class="panel panel-primary" id="@Model.Id">
+    <div class="panel-body">
+        @if (this.User.Identity.IsAuthenticated)
+        {
+            <h2>@Html.ActionLink(Model.Name, "Details", "Team", new { id = Model.Id }, new { })</h2>
+        }
+        else
+        {
+            <h2>@Model.Name</h2>
+        }
+        <a href="@Model.Website">@Model.Website</a>
+        <div class="pull-right">Votes: @Model.Votes</div>
+    </div>
+</div>

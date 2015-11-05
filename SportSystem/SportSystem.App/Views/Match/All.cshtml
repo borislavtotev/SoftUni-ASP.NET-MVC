@@ -1,0 +1,15 @@
+﻿@model PagedList.IPagedList<SportSystem.App.ViewModels.MatchViewModel>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "All Matches";
+}
+
+<h2>@ViewBag.Title</h2>
+@Html.DisplayFor(x => x)
+    
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("All", new { page }))
+
+
